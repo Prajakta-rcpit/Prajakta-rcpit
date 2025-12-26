@@ -24,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Prajakta-rcpit&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=Prajak-rcpit)
